@@ -1,15 +1,15 @@
 
 
-<h2 align="center">Olá Turista! 😄</h2>
-<div align="center">🔭 Atualmente sou Dev Mobile Flutter e Design UI UX / Gráfico</div>
-<div align="center">🌱 Estudando Flutter.</div>
-<div align="center">✉️ Contato comigo: cleberrobson16@gmail.com</div></div>
-<div align="center">💬 Qual é sua dúvida?</div>
-<div align="center">⚡ Entusiasta da tecnologia</div>
+<h2 align="">Olá Turista! 😄</h2>
+<div align="">🔭 Atualmente sou Dev Mobile Flutter e Design UI UX / Gráfico</div>
+<div align="">🌱 Estudando Flutter.</div>
+<div align="">✉️ Contato comigo: cleberrobson16@gmail.com</div></div>
+<div align="">💬 Qual é sua dúvida?</div>
+<div align="">⚡ Entusiasta da tecnologia</div>
 
 <br></br>
 
-<div align="center">
+<div align="">
   <a href="https://github.com/K4MiR">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=K4MiR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4MiR&layout=compact&langs_count=7&theme=dark"/>
