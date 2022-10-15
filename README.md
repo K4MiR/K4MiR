@@ -1,12 +1,13 @@
 
 
-Olá Turista! 😄
-🔭 Atualmente sou Dev Mobile e Design UI UX / Gráfico
-🌱 Estudando Flutter.
-✉️ Contato comigo: cleberrobson16@gmail.com
-💬 Qual é sua dúvida?
-⚡ Entusiasta da tecnologia
+<h2 align="center">Olá Turista! 😄</h2>
+<div align="center">🔭 Atualmente sou Dev Mobile Flutter e Design UI UX / Gráfico</div>
+<div align="center">🌱 Estudando Flutter.</div>
+<div align="center">✉️ Contato comigo: cleberrobson16@gmail.com</div></div>
+<div align="center">💬 Qual é sua dúvida?</div>
+<div align="center">⚡ Entusiasta da tecnologia</div>
 
+<br></br>
 
 <div align="center">
   <a href="https://github.com/K4MiR">
